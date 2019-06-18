@@ -1,2 +1,2 @@
 # JavaTraining
-Java training for colegues
+Java training for colleagues
